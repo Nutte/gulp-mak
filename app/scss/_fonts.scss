@@ -1,0 +1,7 @@
+
+@import "_mixins/font-face";
+
+
+@include font-face("SFUIDisplayBold", "../fonts/SFUIDisplayBold/SFUIDisplayBold");
+@include font-face("SFUIDisplayHeavy", "../fonts/SFUIDisplayHeavy/SFUIDisplayHeavy");
+@include font-face("SFUIDisplayRegular", "../fonts/SFUIDisplayRegular/SFUIDisplayRegular");
